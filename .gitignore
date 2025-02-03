@@ -1,0 +1,12 @@
+# Build files
+*.js
+*.d.ts
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+node_modules
+package-lock.json
+.env
+!.env.template
